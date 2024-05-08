@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+main {
+    width: 75vw;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.f-25 {
+    font-size: 25px;
+}
+
+
+/* Name */
+h1 {
+    font-size: 45px;
+}
+
+
+
+/* Contact info */
+li {
+    padding: 10px;
+    list-style: none;
+}
+
+li .contact {
+    margin-right: 40px;
+}
+
+li .email {
+    margin-right: 57px;
+}
+
+li .linkedin {
+    margin-right: 30px;
+}
+
+li .git {
+    margin-right: 44px;
+}
+
+i {
+    margin-right: 20px;
+    /* color: black; */
+}
+
+.linkedin-logo,
+.git-logo {
+    color: black;
+    font-size: 22px;
+}
+
+
+/* Summary */
+
+
+
+
+/* Skills */
+
+
+
+
+/* Experience */
+.exp-title {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+
+
+/* Education */
+.deg-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.deg-title p {
+    font-weight: bold;
+}
+
+.edu {
+    margin-bottom: 20px;
+}
